@@ -1,4 +1,4 @@
-git clone <https://github.com/Patricio0501/biblioteca.git>
+git clone <https://github.com/Patricio0501/Patricio.git>
 cd biblioteca
 gcc main.c funciones_biblioteca.c -o biblioteca
 ./biblioteca
